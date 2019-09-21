@@ -7,6 +7,7 @@ import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
+        //coejwoifh
 
         String str = generate();
         HashMap<Character, Integer> lettersAmount= new HashMap<>();
